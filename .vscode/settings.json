@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "qmainwindow": "cpp",
+        "new": "cpp",
+        "qhboxlayout": "cpp",
+        "qvboxlayout": "cpp"
+    }
+}

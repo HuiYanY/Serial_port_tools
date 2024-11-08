@@ -1,0 +1,4 @@
+C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build/CMakeFiles/Serial_port_tools.dir
+C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build/CMakeFiles/edit_cache.dir
+C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build/CMakeFiles/rebuild_cache.dir
+C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build/CMakeFiles/Serial_port_tools_autogen.dir

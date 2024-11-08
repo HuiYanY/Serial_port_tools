@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/Serial_port_tools.dir/includes_CXX.rsp -g -o CMakeFiles\\Serial_port_tools.dir\\Serial_port_tools_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\HuiYan\\Documents\\QtPrject\\Serial_port_tools\\build\\Serial_port_tools_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build/Serial_port_tools_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Serial_port_tools.dir/Serial_port_tools_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/Serial_port_tools.dir/includes_CXX.rsp -g -o CMakeFiles\\Serial_port_tools.dir\\main.cpp.obj -c C:\\Users\\HuiYan\\Documents\\QtPrject\\Serial_port_tools\\main.cpp",
+  "file": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/main.cpp",
+  "output": "CMakeFiles/Serial_port_tools.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/Serial_port_tools.dir/includes_CXX.rsp -g -o CMakeFiles\\Serial_port_tools.dir\\MainWindow.cpp.obj -c C:\\Users\\HuiYan\\Documents\\QtPrject\\Serial_port_tools\\MainWindow.cpp",
+  "file": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/MainWindow.cpp",
+  "output": "CMakeFiles/Serial_port_tools.dir/MainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/Serial_port_tools.dir/includes_CXX.rsp -g -o CMakeFiles\\Serial_port_tools.dir\\MySerialPort.cpp.obj -c C:\\Users\\HuiYan\\Documents\\QtPrject\\Serial_port_tools\\MySerialPort.cpp",
+  "file": "C:/Users/HuiYan/Documents/QtPrject/Serial_port_tools/MySerialPort.cpp",
+  "output": "CMakeFiles/Serial_port_tools.dir/MySerialPort.cpp.obj"
+}
+]
